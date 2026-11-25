@@ -33,6 +33,30 @@ and building a strong foundation in technology.
 - 📊 Data Science
 - ⚙️ Software Development
 
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,js" />
+</p>
+
+### 📊 Data Analysis & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+
 ## 📚 Currently Learning
 
 - Python
